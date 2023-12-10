@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrenigmatic19&label=Profile%20views&color=0e75b6&style=flat" alt="mrenigmatic19" /> </p>
 
-- 🔭 I’m currently working on **Prada-Bezuban**
+- 🔭 I’m currently working on **SolveDSA**
 
 - 🌱 I’m currently learning **MERN Stack Technology**
 
